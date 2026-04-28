@@ -49,6 +49,6 @@ We propose a framework that integrates:
 
 ---
 
-## 🧪 Experimental Design
+##  Experimental Design
 
-### 📂 Dataset Structure (Used in this Repo)
+###  Dataset Structure (Used in this Repo)
